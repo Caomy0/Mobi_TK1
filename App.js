@@ -8,8 +8,8 @@ export default function App() {
   return (
     <SafeAreaView style={{ flex: 1 }}>
       {/* <Screen1 /> */}
-      <Screen2 />
-      {/* <Screen3 /> */}
+      {/* <Screen2 /> */}
+      <Screen3 />
     </SafeAreaView>
   );
 }
